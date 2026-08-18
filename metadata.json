@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Study Assistant",
+  "description": "Nền tảng hỗ trợ học tập thông minh toàn diện dành cho sinh viên - Tích hợp AI phân tích tài liệu, tạo tóm tắt, quiz trắc nghiệm, flashcards, ghi chú, lịch học, quản lý điểm số và lập kế hoạch học tập tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
